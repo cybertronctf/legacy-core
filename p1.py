@@ -1,1 +1,1 @@
-print("legacy-core REINSERT")
+print("legacy-core UPDATE2")
