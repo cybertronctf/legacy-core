@@ -1,1 +1,0 @@
-print("legacy-core FIX2")
