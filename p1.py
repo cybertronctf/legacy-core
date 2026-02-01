@@ -1,1 +1,1 @@
-print("legacy-core INSERT")
+print("legacy-core UPDATE")
